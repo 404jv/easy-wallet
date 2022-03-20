@@ -2,7 +2,7 @@
 Project to manege your financial goals.
 
 ## 🔷 Diagram
-<img src="./public/easy-wallet.png" />
+<img src="./public/diagram.png" />
 
 ## ✅ To do
 - [x] Diagrama do banco
